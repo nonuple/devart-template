@@ -1,12 +1,12 @@
 # Project Title
-Insert the name of your project
+We Provide Free WiFi
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- [Cheng Guo](http://www.chengguo.co.uk "Cheng Guo"), github.com/chengggguo
+- Yiyun Chen
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+Different from traditional password-access WiFi, We Provide Free WiFi is a series of routers that provide WiFi access activated by users' specific actions. As one of the main symbols of and entrance to the online world,  WiFi is now too commonplace to be noticed. To put it in another way, seeking for WiFi access in public or unfamiliar space has become people's instinct, regardless that the security of these kinds of WiFi access has been heavily criticized. We Provide Free WiFi, as a series of encrypted WiFi providers (routers), provide WiFi connection only if users yell out loud to a certain decibel or climb to a certain height. In this process, these self-exposed and insecure behaviors become password itself. While the digital and abstractive passwords become open behaviors, questions popped out: Do we really need WiFi anytime and anywhere? And how much effort do we want to pay for  WiFi access?
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
@@ -30,4 +30,4 @@ NOTE: For additional images you can either use a relative link to an image on th
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+
